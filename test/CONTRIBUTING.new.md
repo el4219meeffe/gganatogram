@@ -12,3 +12,5 @@ This document provides information about CONTRIBUTING.new.
 # Example usage
 npm start
 ```
+
+# PR Merge: 2025-10-20 - refactor/merge-1144
