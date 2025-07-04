@@ -1,0 +1,14 @@
+# CODE_OF_CONDUCT
+
+Auto-generated documentation - Sen 20 Okt 2025 07:17:36 WIB
+
+## Overview
+
+This document provides information about CODE_OF_CONDUCT.
+
+## Usage
+
+```bash
+# Example usage
+npm start
+```

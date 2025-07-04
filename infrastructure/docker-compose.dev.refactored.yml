@@ -1,0 +1,7 @@
+# docker-compose.dev.refactored.yml
+# Auto-generated Sen 20 Okt 2025 07:17:36 WIB
+
+version: '1.0'
+settings:
+  enabled: true
+  debug: false
